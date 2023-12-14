@@ -1,3 +1,6 @@
 Django
 djangorestframework
+python-decouple
 sentence-transformers
+numpy
+django-dirtyfields
